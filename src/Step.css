@@ -1,0 +1,21 @@
+.step-container {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.step-container label {
+    color: blue;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.step-container input {
+    width: 60px;
+    height: 17px;
+    padding: 3px;
+    margin-left: 10px;
+    margin-top: 2px;
+    outline: 0;
+}
